@@ -1,0 +1,13 @@
+Laboratório pratico 1 - Dashboard Analítico de Vendas Globais
+
+1 - Qual o valor total vendido ? 
+
+2 - Quantas vendas foram realizadas por categoria de produto
+
+3 - Quantas vendas foram realizadas por pais considerando a prioridade de entrega
+
+4 - Qual foi a média de descontos nas vendas por subcategoria de produto ? 
+
+5 - Quais países tiveram maior média de valor de venda ? demostre em um mapa. 
+
+E nosso dashboard deve dar ao usuário a  possibilidade de filtrar os dados por ano, por segmento e por país. 
